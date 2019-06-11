@@ -2,14 +2,11 @@
 List of publicly available security tools for pen-testing, vulnerability scanning, malware analysis, and reverse engineering
 
 ## Contents
-### Online Resources
-* Penetration Testing Resources
-* Exploit Development
-* Open Source Intelligence (OSINT) Resources
-* Social Engineering Resources
-* Lock Picking Resources
-* Operating Systems
-### Tools
+### SDL Tools
+* Microsoft Surface Attack Analyzer 2.0
+* Microsoft Threat Modeling Tool
+* Attack Trees to model threats
+### Penetration tools
 * Penetration Testing Distributi*ns
 * Docker for Penetration Testing
 * Multi-paradigm Frameworks
@@ -52,6 +49,13 @@ List of publicly available security tools for pen-testing, vulnerability scannin
 * Information Security Conferences
 * Information Security Magazines
 * Awesome Lists
+### Online Resources
+* Penetration Testing Resources
+* Exploit Development
+* Open Source Intelligence (OSINT) Resources
+* Social Engineering Resources
+* Lock Picking Resources
+* Operating Systems
 ### Penetration Testing Resources
 * Metasploit Unleashed – Free Offensive Security Metasploit course.
 * Penetration Testing Execution Standard (PTES) – Documentation designed to
