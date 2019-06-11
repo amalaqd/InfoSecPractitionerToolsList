@@ -1,5 +1,5 @@
 # infosecpractitionerlist
-List of security tools for pen-testing, vulnerability scanning, malware analysis, and reverse engineering
+List of publicly available security tools for pen-testing, vulnerability scanning, malware analysis, and reverse engineering
 
 ## Contents
 ### Online Resources
