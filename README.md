@@ -11,18 +11,18 @@ List of publicly available security tools for pen-testing, vulnerability scannin
 * Operating Systems
 ### Tools
 * Penetration Testing Distributi*ns
-* D*cker for Penetrati*n Testing
-* Multi-paradigm Framew*rks
+* Docker for Penetration Testing
+* Multi-paradigm Frameworks
 * Vulnerability Scanners
 ### Static Analyzers
 * Web Scanners
 * Network Tools
 * Wireless Netw*rk Tools
 * Transport Layer Security Tools
-* Web Exploitati*n
-* Hex Edit*rs
+* Web Exploitation
+* Hex Editors
 * File Format Analysis Tools
-* Defense Evasi*n Tools
+* Defense Evasion Tools
 * Hash Cracking Tools
 * Windows Utilities
 * GNU/Linux Utilities
@@ -37,9 +37,9 @@ List of publicly available security tools for pen-testing, vulnerability scannin
 * CTF Tools
 * Penetration Testing Report Templates
 * Books
-* Penetrati*n Testing Books
+* Penetration Testing Books
 * Hackers Handbook Series
-* Defensive Devel*pment
+* Defensive Development
 * Netw*rk Analysis Books
 * Reverse Engineering Books
 * Malware Analysis Books
