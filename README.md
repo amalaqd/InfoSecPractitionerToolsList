@@ -6,6 +6,7 @@ List of publicly available security tools for pen-testing, vulnerability scannin
 * Microsoft Surface Attack Analyzer 2.0
 * Microsoft Threat Modeling Tool
 * Attack Trees to model threats
+* SDL Security Bug Bar Template
 ### Penetration tools
 * Penetration Testing Distributi*ns
 * Docker for Penetration Testing
